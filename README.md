@@ -1,24 +1,22 @@
-# README
+Models: Admin, User, Product, Transaction
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Shopper - Columns:
+ - User Name
+ - Password
+ - Name
+ - Email
+ - Address
+ - City
+ - State
+ - Zip
 
-Things you may want to cover:
+Product - Columns:
+ - Name
+ - Price
+ - Description
+ - Image
+ - Inventory
+ - Category
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Transaction Columns:
+ - 
